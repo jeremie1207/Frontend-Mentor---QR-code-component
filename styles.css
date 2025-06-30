@@ -80,6 +80,11 @@ textarea:not([rows]) {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
+main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
 
 /* card */
 
